@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PersonalProfile</string>
+    <string name="my_profile">My Profile</string>
+    <string name="nisarg_barot">Nisarg Barot</string>
+    <string name="t00658867">T00658867</string>
+    <string name="program_computer_science">Program: Computer Science</string>
+    <string name="about_me">About Me</string>
+    <string name="my_goals">My Goals</string>
+    <string name="back">Back</string>
+    <string name="todo">TODO</string>
+    <string name="prabikjot_singh">Prabikjot Singh</string>
+    <string name="t00653726">T00653726</string>
+    <string name="computing_science_diploma">Computing Science Diploma</string>
+    <string name="know_about_me">Know About Me</string>
+
+</resources>
