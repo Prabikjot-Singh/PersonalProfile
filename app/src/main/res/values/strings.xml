@@ -12,5 +12,20 @@
     <string name="t00653726">T00653726</string>
     <string name="computing_science_diploma">Computing Science Diploma</string>
     <string name="know_about_me">Know About Me</string>
+    <string name="jaskirat_s_sangotra">Jaskirat S. Sangotra</string>
+    <string name="jass_profile">Jass\' Profile</string>
+    <string name="b_sc_compting_science">B.Sc (Compting Science)</string>
+    <string name="t00657284">T00657284</string>
+    <string name="todoj">TODO</string>
+    <string name="textview"> Hi, My name is Jaskirat but you can call me Jass.\n I am from India and currently I am in my home country. \n \n I am a student at Thompsons Rivers University.
+        \n I am very passionate about coding and I am hoping to have career in the CS Indsutry. \n
+        \n If this profile needs to know my hobbies then I absolutely love doing Photography and Image Editing.\n
+     </string>
+    <string name="jacob">Jacob</string>
+    <string name="prabikjot">Prabikjot</string>
+    <string name="jaskirat">Jaskirat</string>
+    <string name="group_o">Group O</string>
+    <string name="profile_menu">PROFILE MENU</string>
+    <string name="imagebackground">ImageBackground</string>
 
 </resources>

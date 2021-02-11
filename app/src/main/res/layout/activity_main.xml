@@ -74,7 +74,6 @@
         android:layout_width="349dp"
         android:layout_height="59dp"
         android:layout_marginStart="81dp"
-        android:layout_marginLeft="81dp"
         android:layout_marginBottom="199dp"
         android:gravity="center_vertical"
         android:text="@string/computing_science_diploma"
@@ -84,7 +83,7 @@
         app:fontFamily="sans-serif-condensed-light"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.045"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/student_Id" />
 
